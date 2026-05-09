@@ -1,4 +1,4 @@
-# Steam Free
+# Steam Free – ВРЕМЕННО ПРИОСТАНОВЛЕНО
 
 ![Steam Free Logo](icon.ico)
 
